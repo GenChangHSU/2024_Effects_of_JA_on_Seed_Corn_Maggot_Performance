@@ -1,0 +1,52 @@
+TY  - MISC
+AU  - R Core Team
+TI  - R: A Language and Environment for Statistical Computing
+PY  - 2023
+DA  - 2023
+CY  - Vienna, Austria
+UR  - https://www.R-project.org/
+ER  - 
+
+TY  - MISC
+AU  - Brooks, Mollie E
+AU  - Kristensen, Kasper
+AU  - van Benthem, Koen J
+AU  - Magnusson, Arni
+AU  - Berg, Casper W
+AU  - Nielsen, Anders
+AU  - Skaug, Hans J
+AU  - Maechler, Martin
+AU  - Bolker, Benjamin M
+TI  - glmmTMB Balances Speed and Flexibility Among Packages for Zero-inflated
+      Generalized Linear Mixed Modeling
+T2  - The R Journal
+VL  - 9
+IS  - 2
+SP  - 378-400
+PY  - 2017
+DA  - 2017
+DO  - 10.32614/RJ-2017-066
+UR  - http://dx.doi.org/10.32614/RJ-2017-066
+ER  - 
+
+TY  - MISC
+AU  - Fox, John
+AU  - Weisberg, Sanford
+TI  - An R Companion to Applied Regression
+ET  - Third
+PY  - 2019
+DA  - 2019
+PB  - Sage
+CY  - Thousand Oaks CA
+UR  - https://socialsciences.mcmaster.ca/jfox/Books/Companion/
+ER  - 
+
+TY  - MISC
+AU  - Hartig, Florian
+TI  - DHARMa: Residual Diagnostics for Hierarchical (Multi-Level / Mixed)
+      Regression Models
+PY  - 2022
+DA  - 2022
+UR  - https://CRAN.R-project.org/package=DHARMa
+N1  - R package version 0.4.6
+ER  - 
