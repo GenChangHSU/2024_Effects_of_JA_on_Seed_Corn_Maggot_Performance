@@ -1,6 +1,6 @@
 ## Effects of methyl jasmonate seed treatments on adult oviposition preference and larval performance of seed corn maggot (_Delia platura_) in corn (_Zea mays_)
 
-Ray, S., __G-C. Hsu__, N.T. Pappous, O. Rooney, A.G. Taylor, and J.S. Thaler. 2024. Effects of methyl jasmonate seed treatments on adult oviposition preference and larval performance of seed corn maggot (_Delia platura_) in corn (_Zea mays_). __*Pest Management Science*__.
+Ray, S., __G-C. Hsu__, N.T. Pappous, O. Rooney, A.G. Taylor, and J.S. Thaler. 2024. Effects of methyl jasmonate seed treatments on adult oviposition preference and larval performance of seed corn maggot (_Delia platura_) in corn (_Zea mays_). *Pest Management Science*.
 
 ## Abstract
 
